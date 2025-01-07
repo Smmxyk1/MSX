@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-07 05:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-07 05:01:22 +0000"
@@ -280,6 +286,7 @@
       "cooked_porkchop": "2025-01-06 14:49:24 +0000",
       "cooked_mutton": "2025-01-06 15:09:49 +0000",
       "cooked_beef": "2025-01-06 15:52:57 +0000",
+      "spider_eye": "2025-01-07 05:30:21 +0000",
       "bread": "2025-01-07 04:44:44 +0000",
       "cooked_chicken": "2025-01-06 14:56:16 +0000"
     },
