@@ -1,112 +1,39 @@
-[14:36:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:36:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:36:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:36:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:36:28] [main/INFO]: Reloading ResourceManager: Default
-[14:36:29] [Worker-Main-4/INFO]: Loaded 7 recipes
-[14:36:30] [Worker-Main-4/INFO]: Loaded 927 advancements
-[14:36:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[14:36:32] [Server thread/INFO]: Loading properties
-[14:36:32] [Server thread/INFO]: Default game type: SURVIVAL
-[14:36:32] [Server thread/INFO]: Generating keypair
-[14:36:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:36:32] [Server thread/INFO]: Using epoll channel type
-[14:36:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:36:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:36:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:36:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:36:32] [Server thread/INFO]: Preparing level "world"
-[14:36:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:36:35] [Server thread/INFO]: Preparing spawn area: 8%
-[14:36:38] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:38] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:39] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[14:36:39] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[14:36:40] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:40] [Worker-Main-4/INFO]: Preparing spawn area: 83%
-[14:36:41] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[14:36:41] [Worker-Main-6/INFO]: Preparing spawn area: 88%
-[14:36:42] [Worker-Main-4/INFO]: Preparing spawn area: 91%
-[14:36:43] [Server thread/INFO]: Preparing spawn area: 94%
-[14:36:43] [Server thread/INFO]: Time elapsed: 10226 ms
-[14:36:43] [Server thread/INFO]: Done (10.426s)! For help, type "help"
-[14:38:13] [Server thread/INFO]: dadvid[/127.170.200.188:40695] logged in with entity id 135 at (224.5, 71.0, 226.5)
-[14:38:13] [Server thread/INFO]: dadvid joined the game
-[14:39:39] [Server thread/INFO]: dadvid has made the advancement [Stone Age]
-[14:41:17] [Server thread/INFO]: dadvid has made the advancement [Getting an Upgrade]
-[14:44:19] [Server thread/INFO]: You whisper to dadvid: puto el que lo lee
-[14:50:18] [Server thread/INFO]: dadvid has made the advancement [Monster Hunter]
-[14:51:40] [Server thread/INFO]: Smmxyk[/127.126.246.131:56251] logged in with entity id 1956 at (217.5, 72.0, 219.5)
-[14:51:40] [Server thread/INFO]: Smmxyk joined the game
-[14:51:58] [Server thread/INFO]: Smmxyk was slain by Zombie
-[14:52:31] [Server thread/INFO]: Smmxyk was slain by Zombie
-[14:53:13] [Server thread/INFO]: dadvid was slain by Zombie
-[14:54:03] [Server thread/INFO]: dadvid was slain by Zombie
-[14:57:09] [Server thread/INFO]: Smmxyk has made the advancement [Stone Age]
-[14:57:49] [Server thread/INFO]: Smmxyk has made the advancement [Getting an Upgrade]
-[15:02:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:02:32] [Server thread/INFO]: /OP @A<--[HERE]
-[15:02:38] [Server thread/INFO]: Made Smmxyk a server operator
-[15:02:38] [Server thread/INFO]: Made Smmxyk a server operator
-[15:03:13] [Server thread/INFO]: dadvid was slain by Zombie
-[15:03:41] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:05:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=319, y=70, z=59} fx{x=319, y=68, z=59}
-[15:07:37] [Server thread/INFO]: Smmxyk has made the advancement [Sweet Dreams]
-[15:07:52] [Server thread/INFO]: Smmxyk has made the advancement [Monster Hunter]
-[15:08:43] [Server thread/INFO]: dadvid has made the advancement [Sweet Dreams]
-[15:08:53] [Server thread/INFO]: <dadvid> zzzzz
-[15:08:56] [Server thread/INFO]: <dadvid> SZZZZZZ
-[15:08:56] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
-[15:08:57] [Server thread/INFO]: <dadvid> ZZZ
-[15:08:59] [Server thread/INFO]: <dadvid> zzz
-[15:09:22] [Server thread/INFO]: <dadvid> 213123
-[15:09:23] [Server thread/INFO]: <Smmxyk> ZzzZzzZzZ
-[15:19:43] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
-[15:27:05] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:30:16] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:31:48] [Server thread/INFO]: <Smmxyk> zzZZzZZZ
-[15:31:49] [Server thread/INFO]: <Smmxyk> ZZZZzzzzZ
-[15:31:50] [Server thread/INFO]: dadvid has made the advancement [Acquire Hardware]
-[15:31:52] [Server thread/INFO]: <Smmxyk> ZZzzZZzZZZ
-[15:31:55] [Server thread/INFO]: <Smmxyk> ZZZzZZZZZZz
-[15:32:00] [Server thread/INFO]: <dadvid> wzzzzzzzzzzzz
-[15:32:02] [Server thread/INFO]: <dadvid> zzzzzzzzz
-[15:32:03] [Server thread/INFO]: <dadvid> zzzzzzzzzzz
-[15:46:26] [Server thread/INFO]: dadvid was slain by Zombie
-[15:46:33] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:49:39] [Server thread/WARN]: Boat (vehicle of Smmxyk) moved wrongly! 0.25853518023370725
-[15:49:39] [Server thread/WARN]: Boat (vehicle of Smmxyk) moved wrongly! 0.2949740257637359
-[15:49:39] [Server thread/WARN]: Boat (vehicle of Smmxyk) moved wrongly! 0.38566797876535475
-[15:49:39] [Server thread/WARN]: Boat (vehicle of Smmxyk) moved wrongly! 0.47642547973680394
-[15:50:04] [Server thread/INFO]: dadvid was slain by Spider
-[15:50:08] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:56:23] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[15:57:00] [Server thread/INFO]: dadvid lost connection: Disconnected
-[15:57:00] [Server thread/INFO]: dadvid left the game
-[15:57:02] [Server thread/INFO]: Smmxyk lost connection: Disconnected
-[15:57:02] [Server thread/INFO]: Smmxyk left the game
-[15:57:19] [Server thread/INFO]: Stopping the server
-[15:57:19] [Server thread/INFO]: Stopping server
-[15:57:19] [Server thread/INFO]: Saving players
-[15:57:19] [Server thread/INFO]: Saving worlds
-[15:57:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:57:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:57:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:11] [main/INFO]: Reloading ResourceManager: Default
+[04:41:12] [Worker-Main-4/INFO]: Loaded 7 recipes
+[04:41:12] [Worker-Main-4/INFO]: Loaded 927 advancements
+[04:41:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[04:41:14] [Server thread/INFO]: Loading properties
+[04:41:14] [Server thread/INFO]: Default game type: SURVIVAL
+[04:41:14] [Server thread/INFO]: Generating keypair
+[04:41:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:41:15] [Server thread/INFO]: Using epoll channel type
+[04:41:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:41:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:41:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:41:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:41:15] [Server thread/INFO]: Preparing level "world"
+[04:41:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:18] [Server thread/INFO]: Time elapsed: 2662 ms
+[04:41:18] [Server thread/INFO]: Done (2.780s)! For help, type "help"
+[04:41:56] [Server thread/INFO]: Smmxyk[/127.126.246.131:38601] logged in with entity id 87 at (503.50261489810026, 73.0, -1382.4589285728496)
+[04:41:56] [Server thread/INFO]: Smmxyk joined the game
+[04:44:19] [Server thread/INFO]: dadvid[/127.170.200.188:49651] logged in with entity id 534 at (438.4371930656321, 61.0, -1406.6680703810769)
+[04:44:19] [Server thread/INFO]: dadvid joined the game
+[04:45:19] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
+[04:45:44] [Server thread/INFO]: Smmxyk was slain by dadvid
+[04:45:52] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
+[04:47:58] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
+[04:48:53] [Server thread/INFO]: Smmxyk was slain by Silverfish
+[04:48:56] [Server thread/INFO]: dadvid was slain by Silverfish
+[04:49:07] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
+[04:49:32] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
