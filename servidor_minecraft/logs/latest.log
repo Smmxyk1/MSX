@@ -46,3 +46,9 @@
 [04:56:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=367, y=18, z=-1469} fx{x=367, y=18, z=-1468}
 [04:58:19] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
 [05:00:57] [Server thread/INFO]: dadvid has made the advancement [Isn't It Iron Pick]
+[05:02:19] [Server thread/INFO]: dadvid has made the advancement [Suit Up]
+[05:02:47] [Server thread/INFO]: Smmxyk has made the advancement [Not Today, Thank You]
+[05:09:56] [Server thread/INFO]: Smmxyk has made the advancement [Suit Up]
+[05:10:27] [Server thread/INFO]: Villager bfj['Villager'/90, l='ServerLevel[world]', x=513.60, y=70.00, z=-1383.81] died, message: 'Villager was slain by Zombie'
+[05:10:28] [Server thread/INFO]: Villager bfj['Villager'/91, l='ServerLevel[world]', x=511.76, y=70.00, z=-1383.33] died, message: 'Villager was slain by Zombie'
+[05:10:33] [Server thread/INFO]: Villager bfj['Villager'/89, l='ServerLevel[world]', x=505.46, y=70.56, z=-1388.46] died, message: 'Villager was slain by Zombie'
