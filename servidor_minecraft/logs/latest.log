@@ -88,3 +88,16 @@
 [06:09:03] [Server thread/INFO]: Villager bfj['Nitwit'/172, l='ServerLevel[world]', x=503.49, y=72.00, z=-1325.70] died, message: 'Nitwit was slain by Zombie'
 [06:27:29] [Server thread/INFO]: dadvid lost connection: Disconnected
 [06:27:29] [Server thread/INFO]: dadvid left the game
+[13:19:33] [Server thread/INFO]: Stopping the server
+[13:19:33] [Server thread/INFO]: Stopping server
+[13:19:33] [Server thread/INFO]: Saving players
+[13:19:33] [Server thread/INFO]: Saving worlds
+[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
