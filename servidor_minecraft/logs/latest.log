@@ -1,103 +1,29 @@
-[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:41:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:11] [main/INFO]: Reloading ResourceManager: Default
-[04:41:12] [Worker-Main-4/INFO]: Loaded 7 recipes
-[04:41:12] [Worker-Main-4/INFO]: Loaded 927 advancements
-[04:41:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[04:41:14] [Server thread/INFO]: Loading properties
-[04:41:14] [Server thread/INFO]: Default game type: SURVIVAL
-[04:41:14] [Server thread/INFO]: Generating keypair
-[04:41:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:41:15] [Server thread/INFO]: Using epoll channel type
-[04:41:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:41:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:41:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:41:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:41:15] [Server thread/INFO]: Preparing level "world"
-[04:41:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:17] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:18] [Server thread/INFO]: Time elapsed: 2662 ms
-[04:41:18] [Server thread/INFO]: Done (2.780s)! For help, type "help"
-[04:41:56] [Server thread/INFO]: Smmxyk[/127.126.246.131:38601] logged in with entity id 87 at (503.50261489810026, 73.0, -1382.4589285728496)
-[04:41:56] [Server thread/INFO]: Smmxyk joined the game
-[04:44:19] [Server thread/INFO]: dadvid[/127.170.200.188:49651] logged in with entity id 534 at (438.4371930656321, 61.0, -1406.6680703810769)
-[04:44:19] [Server thread/INFO]: dadvid joined the game
-[04:45:19] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[04:45:44] [Server thread/INFO]: Smmxyk was slain by dadvid
-[04:45:52] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
-[04:47:58] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[04:48:53] [Server thread/INFO]: Smmxyk was slain by Silverfish
-[04:48:56] [Server thread/INFO]: dadvid was slain by Silverfish
-[04:49:07] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[04:49:32] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[04:51:12] [Server thread/INFO]: dadvid lost connection: Disconnected
-[04:51:12] [Server thread/INFO]: dadvid left the game
-[04:51:19] [Server thread/INFO]: dadvid[/127.170.200.188:35539] logged in with entity id 2184 at (359.26887591454147, 50.0, -1512.5973893770172)
-[04:51:19] [Server thread/INFO]: dadvid joined the game
-[04:53:43] [Server thread/INFO]: Smmxyk has made the advancement [Acquire Hardware]
-[04:53:52] [Server thread/INFO]: Smmxyk has made the advancement [Isn't It Iron Pick]
-[04:56:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=367, y=18, z=-1469} fx{x=367, y=18, z=-1468}
-[04:58:19] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:00:57] [Server thread/INFO]: dadvid has made the advancement [Isn't It Iron Pick]
-[05:02:19] [Server thread/INFO]: dadvid has made the advancement [Suit Up]
-[05:02:47] [Server thread/INFO]: Smmxyk has made the advancement [Not Today, Thank You]
-[05:09:56] [Server thread/INFO]: Smmxyk has made the advancement [Suit Up]
-[05:10:27] [Server thread/INFO]: Villager bfj['Villager'/90, l='ServerLevel[world]', x=513.60, y=70.00, z=-1383.81] died, message: 'Villager was slain by Zombie'
-[05:10:28] [Server thread/INFO]: Villager bfj['Villager'/91, l='ServerLevel[world]', x=511.76, y=70.00, z=-1383.33] died, message: 'Villager was slain by Zombie'
-[05:10:33] [Server thread/INFO]: Villager bfj['Villager'/89, l='ServerLevel[world]', x=505.46, y=70.56, z=-1388.46] died, message: 'Villager was slain by Zombie'
-[05:11:31] [Server thread/INFO]: dadvid has made the advancement [Diamonds!]
-[05:14:54] [Server thread/INFO]: Smmxyk has made the advancement [Diamonds!]
-[05:30:25] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
-[05:33:29] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:36:23] [Server thread/INFO]: <Smmxyk> te re fuiste
-[05:39:27] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:41:35] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:44:29] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:44:32] [Server thread/INFO]: Smmxyk was slain by dadvid
-[05:44:53] [Server thread/INFO]: [Smmxyk: Teleported Smmxyk to dadvid]
-[05:46:57] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:47:37] [Server thread/INFO]: dadvid burned to death
-[05:47:45] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:51:10] [Server thread/INFO]: [Smmxyk: Set own game mode to Spectator Mode]
-[05:51:59] [Server thread/INFO]: dadvid tried to swim in lava
-[05:52:02] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:05] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:06] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:07] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:08] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:08] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:09] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:09] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:11] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:52:45] [Server thread/INFO]: [dadvid: Set own game mode to Spectator Mode]
-[05:53:56] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:55:19] [Server thread/INFO]: [dadvid: Teleported dadvid to Smmxyk]
-[05:55:38] [Server thread/INFO]: [dadvid: Set own game mode to Survival Mode]
-[05:55:53] [Server thread/INFO]: [dadvid: Set own game mode to Spectator Mode]
-[05:56:00] [Server thread/INFO]: [dadvid: Set own game mode to Survival Mode]
-[05:56:50] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
-[05:58:17] [Server thread/INFO]: Smmxyk lost connection: Disconnected
-[05:58:17] [Server thread/INFO]: Smmxyk left the game
-[06:09:03] [Server thread/INFO]: Villager bfj['Nitwit'/172, l='ServerLevel[world]', x=503.49, y=72.00, z=-1325.70] died, message: 'Nitwit was slain by Zombie'
-[06:27:29] [Server thread/INFO]: dadvid lost connection: Disconnected
-[06:27:29] [Server thread/INFO]: dadvid left the game
-[13:19:33] [Server thread/INFO]: Stopping the server
-[13:19:33] [Server thread/INFO]: Stopping server
-[13:19:33] [Server thread/INFO]: Saving players
-[13:19:33] [Server thread/INFO]: Saving worlds
-[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:37:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:37:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:37:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:37:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:37:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:37:27] [main/INFO]: Reloading ResourceManager: Default
+[20:37:28] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:37:29] [Worker-Main-4/INFO]: Loaded 927 advancements
+[20:37:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:37:31] [Server thread/INFO]: Loading properties
+[20:37:31] [Server thread/INFO]: Default game type: SURVIVAL
+[20:37:31] [Server thread/INFO]: Generating keypair
+[20:37:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:37:32] [Server thread/INFO]: Using epoll channel type
+[20:37:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:37:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:37:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:37:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:37:32] [Server thread/INFO]: Preparing level "world"
+[20:37:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 0%
+[20:37:35] [Server thread/INFO]: Preparing spawn area: 80%
+[20:37:35] [Server thread/INFO]: Time elapsed: 3209 ms
+[20:37:35] [Server thread/INFO]: Done (3.355s)! For help, type "help"
