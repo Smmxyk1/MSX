@@ -1,75 +1,398 @@
-[17:06:52] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[17:06:53] [Server thread/INFO]: Loading properties
-[17:06:53] [Server thread/INFO]: Default game type: SURVIVAL
-[17:06:53] [Server thread/INFO]: Generating keypair
-[17:06:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:06:54] [Server thread/INFO]: Using epoll channel type
-[17:06:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:06:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:06:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:06:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:06:54] [Server thread/WARN]: Failed to load user banlist: 
-java.io.FileNotFoundException: banned-players.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:136) ~[mt.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_187246_z(SourceFile:99) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:25) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:215) [ld.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
-[17:06:54] [Server thread/WARN]: Failed to load ip banlist: 
-java.io.FileNotFoundException: banned-ips.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:136) ~[mt.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_187249_y(SourceFile:91) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:27) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:215) [ld.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
-[17:06:54] [Server thread/WARN]: Failed to load operators list: 
-java.io.FileNotFoundException: ops.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:136) ~[mt.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72417_t(SourceFile:107) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:29) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:215) [ld.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
-[17:06:54] [Server thread/WARN]: Failed to load white-list: 
-java.io.FileNotFoundException: whitelist.json (No such file or directory)
-	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_442]
-	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_442]
-	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_442]
-	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.1.10.2.jar:?]
-	at net.minecraft.server.management.UserList.func_152679_g(SourceFile:136) ~[mt.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.func_72418_v(SourceFile:123) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:30) [lc.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:215) [ld.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
-[17:06:54] [Server thread/INFO]: Preparing level "world"
-[17:06:54] [Server thread/INFO]: Preparing start region for level 0
-[17:06:55] [Server thread/INFO]: Preparing spawn area: 10%
-[17:06:57] [Server thread/INFO]: Preparing spawn area: 19%
-[17:06:58] [Server thread/INFO]: Preparing spawn area: 33%
-[17:06:59] [Server thread/INFO]: Preparing spawn area: 47%
-[17:07:00] [Server thread/INFO]: Preparing spawn area: 62%
-[17:07:01] [Server thread/INFO]: Preparing spawn area: 83%
-[17:07:01] [Server thread/INFO]: Done (7.500s)! For help, type "help" or "?"
-[17:07:22] [Server thread/INFO]: Stopping the server
-[17:07:22] [Server thread/INFO]: Stopping server
-[17:07:22] [Server thread/INFO]: Saving players
-[17:07:22] [Server thread/INFO]: Saving worlds
-[17:07:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[17:07:23] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[17:07:23] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[17:07:23] [Server Shutdown Thread/INFO]: Stopping server
+[22:12:15] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[22:12:43] [Server thread/INFO]: Loading properties
+[22:12:43] [Server thread/INFO]: Default game type: SURVIVAL
+[22:12:43] [Server thread/INFO]: Generating keypair
+[22:12:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:12:43] [Server thread/INFO]: Using epoll channel type
+[22:12:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:12:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:12:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:12:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:12:53] [Server thread/INFO]: Preparing level "world"
+[22:12:55] [Server thread/INFO]: Preparing start region for level 0
+[22:12:56] [Server thread/INFO]: Done (2.353s)! For help, type "help" or "?"
+[22:12:57] [Aromabackup-Backup/INFO]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-11325): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-343800852): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-9999): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM144): All chunks are saved
+[22:12:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-2): All chunks are saved
+[22:13:02] [Aromabackup-Backup/INFO]: [AromaBackup] Server Backup done!
+[22:13:09] [Server thread/INFO]: NoxiusSpeed[/127.129.213.144:48117] logged in with entity id 97 at (260.4642098580092, 82.0, -1216.2162941733236)
+[22:13:09] [Server thread/INFO]: NoxiusSpeed joined the game
+[22:17:14] [Server thread/INFO]: Set the time to 1000
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Spider
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: NoxiusSpeed fell out of the world
+[22:18:42] [Server thread/INFO]: Killed NoxiusSpeed
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed item.item.rottenFlesh
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Husk
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Dweller
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Ashen
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed Spider
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed Dweller
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed Ashen
+[22:18:42] [Server thread/INFO]: Killed Dweller
+[22:18:42] [Server thread/INFO]: Killed Creeper
+[22:18:42] [Server thread/INFO]: Killed item.item.arrow
+[22:18:42] [Server thread/INFO]: Killed item.item.bone
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Ashen
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Zombie
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Skeleton
+[22:18:42] [Server thread/INFO]: Killed Bat
+[22:21:07] [Server thread/INFO]: Smmxyk[/127.125.104.106:59437] logged in with entity id 16153 at (261.1868895718354, 82.0, -1216.2871389439206)
+[22:21:07] [Server thread/INFO]: Smmxyk joined the game
+[22:21:21] [Server thread/INFO]: <NoxiusSpeed> toma
+[22:21:58] [Server thread/INFO]: <NoxiusSpeed> eso es tuyo
+[22:22:02] [Server thread/INFO]: <Smmxyk> thx
+[22:22:19] [Server thread/INFO]: <NoxiusSpeed> toma esto
+[22:23:40] [Server thread/INFO]: <Smmxyk> bueno
+[22:23:43] [Server thread/INFO]: <Smmxyk> tenemos q ser rapido
+[22:23:48] [Server thread/INFO]: <Smmxyk> la noche es peligrosa
+[22:23:56] [Server thread/INFO]: <Smmxyk> necesito un solo bloque de tierra
+[22:23:59] [Server thread/INFO]: <Smmxyk> no recuerdo como era
+[22:24:00] [Server thread/INFO]: Smmxyk has just earned the achievement [Taking Inventory]
+[22:24:11] [Server thread/INFO]: <NoxiusSpeed> hay estructuras supongo
+[22:24:21] [Server thread/INFO]: <Smmxyk> sip
+[22:24:43] [Server thread/INFO]: <Smmxyk> q raro
+[22:24:51] [Server thread/INFO]: <Smmxyk> necesitamos 1 bloque de tierra par el sapling
+[22:25:05] [Server thread/INFO]: <NoxiusSpeed> a explorar entonces
+[22:25:19] [Server thread/INFO]: <Smmxyk> ahhh ya me acorde
+[22:25:20] [Server thread/INFO]: <Smmxyk> nono
+[22:25:21] [Server thread/INFO]: <Smmxyk> vente
+[22:25:28] [Server thread/INFO]: <Smmxyk> tienes el celular, no?
+[22:25:30] [Server thread/INFO]: <Smmxyk> el cosito verde
+[22:25:35] [Server thread/INFO]: <NoxiusSpeed> y cual es el objetivo dle mod?
+[22:25:47] [Server thread/INFO]: <Smmxyk> sobrevivir
+[22:25:53] [Server thread/INFO]: <Smmxyk> JAJ no se sinceramente
+[22:25:56] [Server thread/INFO]: <Smmxyk> tenemos misiones
+[22:25:59] [Server thread/INFO]: <Smmxyk> brother
+[22:26:03] [Server thread/INFO]: <Smmxyk> dime q no te tomaste el agua
+[22:26:12] [Server thread/INFO]: <NoxiusSpeed> oh no
+[22:26:21] [Server thread/INFO]: <NoxiusSpeed> la cague cierto
+[22:26:30] [Server thread/INFO]: <NoxiusSpeed> me estoy quemando
+[22:26:59] [Server thread/INFO]: <Smmxyk> vrg
+[22:27:05] [Server thread/INFO]: <Smmxyk> bueno deja hago algo
+[22:27:10] [Server thread/INFO]: <NoxiusSpeed> ya esta de noche, sera interesante esto
+[22:27:36] [Server thread/INFO]: <NoxiusSpeed> ya aparecieron mobs
+[22:27:49] [Server thread/INFO]: <Smmxyk> cuidado
+[22:27:53] [Server thread/INFO]: <Smmxyk> no te pongas en la puerta
+[22:28:00] [Server thread/INFO]: <Smmxyk> hay una press
+[22:28:01] [Server thread/INFO]: <NoxiusSpeed> justo eso iba a decir
+[22:28:32] [Server thread/INFO]: <NoxiusSpeed> aca hay extremidades?
+[22:28:40] [Server thread/INFO]: <Smmxyk> creo q si
+[22:28:48] [Server thread/INFO]: <NoxiusSpeed> vrg
+[22:28:55] [Server thread/INFO]: There is no such item with name minecraft:water_bottlegamemode
+[22:29:04] [Server thread/INFO]: <NoxiusSpeed> creo que tengo los brazos rotos o algo
+[22:29:25] [Server thread/INFO]: Opped smmxyk
+[22:29:31] [Server thread/INFO]: <Smmxyk> es posible
+[22:29:33] [Server thread/INFO]: <Smmxyk> no recuerdo
+[22:29:42] [Server thread/INFO]: [Smmxyk: Set own game mode to Creative Mode]
+[22:29:51] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
+[22:29:55] [Server thread/INFO]: <NoxiusSpeed> duro muchisimo para comer esta carne
+[22:29:55] [Server thread/INFO]: <Smmxyk> ya
+[22:30:06] [Server thread/INFO]: <Smmxyk> si no te molesta me givee una botellita
+[22:30:12] [Server thread/INFO]: <Smmxyk> pq sino era imposible avanzar
+[22:30:13] [Server thread/INFO]: <NoxiusSpeed> no hay problema
+[22:30:19] [Server thread/INFO]: <Smmxyk> tienes esto?
+[22:30:33] [Server thread/INFO]: <Smmxyk> debes estar envenenado o cansado, llega un punto q no podes comer
+[22:30:37] [Server thread/INFO]: <Smmxyk> abrelo
+[22:30:40] [Server thread/INFO]: <Smmxyk> tienes misiones
+[22:30:44] [Server thread/INFO]: [BetterQuesting: Played sound 'entity.lightning.impact' to Smmxyk]
+[22:30:44] [Server thread/INFO]: [BetterQuesting: Played sound 'entity.lightning.impact' to NoxiusSpeed]
+[22:31:00] [Server thread/INFO]: <Smmxyk> para q reclames
+[22:31:06] [Server thread/INFO]: <NoxiusSpeed> A posho le va a gustar esto
+[22:31:08] [Server thread/INFO]: [Smmxyk: De-opped smmxyk]
+[22:31:10] [Server thread/INFO]: <Smmxyk> sisi
+[22:31:15] [Server thread/INFO]: [BetterQuesting: Played sound 'entity.lightning.impact' to NoxiusSpeed]
+[22:31:15] [Server thread/INFO]: [BetterQuesting: Played sound 'entity.lightning.impact' to Smmxyk]
+[22:31:19] [Server thread/INFO]: <Smmxyk> hablando de eso donde esta
+[22:31:49] [Server thread/INFO]: <Smmxyk> ya podemos plantar
+[22:31:54] [Server thread/INFO]: <Smmxyk> ahora nomas queda esperar el dia
+[22:31:57] [Server thread/INFO]: <NoxiusSpeed> ok
+[22:32:08] [Server thread/INFO]: NoxiusSpeed has just earned the achievement [Getting Educated]
+[22:32:10] [Server thread/INFO]: <Smmxyk> ve mirando las misiones
+[22:35:28] [Server thread/INFO]: <Smmxyk> xddd
+[22:35:36] [Server thread/INFO]: <Smmxyk> oe
+[22:36:34] [Server thread/INFO]: NoxiusSpeed lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:36:34] [Server thread/INFO]: NoxiusSpeed left the game
+[22:41:54] [Server thread/INFO]: NoxiusSpeed[/127.129.213.144:36989] logged in with entity id 59506 at (249.25081856479736, 68.0, -1215.979664663309)
+[22:41:54] [Server thread/INFO]: NoxiusSpeed joined the game
+[22:42:23] [Server thread/INFO]: <NoxiusSpeed> wtf me va mejor sin el optifine
+[22:42:27] [Server thread/INFO]: <Smmxyk> sisi
+[22:42:30] [Server thread/INFO]: <Smmxyk> a mi tambien
+[22:42:42] [Server thread/INFO]: <Smmxyk> tenemos q salir
+[22:42:54] [Server thread/INFO]: <NoxiusSpeed> como le hacemos?
+[22:42:59] [Server thread/INFO]: <Smmxyk> sube 3 bloques y mata los q puedas de ahi
+[22:43:11] [Server thread/INFO]: <Smmxyk> pero primero
+[22:43:19] [Server thread/INFO]: <NoxiusSpeed> te estas desangrando o soy yo?
+[22:43:25] [Server thread/INFO]: <Smmxyk> sisi
+[22:43:42] [Server thread/INFO]: <Smmxyk> no gastes comida
+[22:44:27] [Server thread/INFO]: <NoxiusSpeed> me muero fue un placer
+[22:44:50] [Server thread/INFO]: Smmxyk died
+[22:45:07] [Server thread/INFO]: <NoxiusSpeed> esa risa, te baja el autoestima
+[22:45:14] [Server thread/INFO]: <Smmxyk> JAAJAJAJ
+[22:45:30] [Server thread/INFO]: <Smmxyk> ya
+[22:45:32] [Server thread/INFO]: <NoxiusSpeed> me dio experiencia solida
+[22:45:37] [Server thread/INFO]: <Smmxyk> poner tierra y plantar arboles
+[22:46:26] [Server thread/INFO]: <NoxiusSpeed> no le bajamos vida
+[22:46:35] [Server thread/INFO]: <NoxiusSpeed> solo un poco
+[22:46:54] [Server thread/INFO]: <NoxiusSpeed> OTRA VEZ LA NOCH
+[22:47:16] [Server thread/INFO]: Smmxyk has just earned the achievement [Getting Wood]
+[22:47:19] [Server thread/INFO]: NoxiusSpeed has just earned the achievement [Getting Wood]
+[22:47:59] [Server thread/INFO]: <NoxiusSpeed> ajaj
+[22:48:02] [Server thread/INFO]: <Smmxyk> misma estrategia cuando sea de dia
+[22:48:04] [Server thread/INFO]: <NoxiusSpeed> esta interesante
+[22:48:06] [Server thread/INFO]: <Smmxyk> saldremos mas rapido
+[22:48:08] [Server thread/INFO]: <Smmxyk> sisisis JSJS
+[22:48:15] [Server thread/INFO]: <NoxiusSpeed> toma
+[22:48:28] [Server thread/INFO]: <NoxiusSpeed> que te da el loot chest?
+[22:48:35] [Server thread/INFO]: <Smmxyk> algo random
+[22:48:39] [Server thread/INFO]: <Smmxyk> cualquier cosa
+[22:48:49] [Server thread/INFO]: <NoxiusSpeed> 30 de pasto me dio
+[22:49:02] [Server thread/INFO]: <Smmxyk> sirve creo
+[22:51:44] [Server thread/INFO]: Smmxyk has just earned the achievement [Benchmarking]
+[22:51:54] [Server thread/INFO]: <NoxiusSpeed> son muchos
+[22:52:38] [Server thread/INFO]: <NoxiusSpeed> que es esto
+[22:52:52] [Server thread/INFO]: <NoxiusSpeed> era algo que se llamaba espiritu
+[22:53:04] [Server thread/INFO]: <Smmxyk> hay muchas cosas q aun no conozco
+[22:53:09] [Server thread/INFO]: <Smmxyk> cuidado las brujas
+[22:53:38] [Server thread/INFO]: <NoxiusSpeed> 3?
+[22:53:58] [Server thread/INFO]: <NoxiusSpeed> no son los mismo crafteos vanilla cierto?
+[22:54:04] [Server thread/INFO]: Smmxyk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:54:04] [Server thread/INFO]: Smmxyk left the game
+[22:57:57] [Aromabackup-Backup/INFO]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[22:57:59] [File IO Thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-343800852): All chunks are saved
+[22:57:59] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-9999): All chunks are saved
+[22:58:01] [Aromabackup-Backup/INFO]: [AromaBackup] Server Backup done!
+[22:58:15] [Server thread/INFO]: Compressed Husk was slain by NoxiusSpeed
+[22:58:23] [Server thread/INFO]: NoxiusSpeed was slain by Zombie
+[23:01:23] [Server thread/INFO]: NoxiusSpeed lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:01:23] [Server thread/INFO]: NoxiusSpeed left the game
+[23:02:46] [Server thread/INFO]: Smmxyk[/127.125.104.106:39151] logged in with entity id 102272 at (238.505738669564, 68.96514559705399, -1215.8190235207603)
+[23:02:46] [Server thread/INFO]: Smmxyk joined the game
+[23:03:14] [Server thread/INFO]: Smmxyk was slain by Zombie
+[23:05:28] [Server thread/INFO]: Smmxyk was slain by Husk
+[23:06:57] [Server thread/INFO]: Killed entity.battletowers.Battletower Golem.name
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.item.stick
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed item.tile.torch
+[23:06:57] [Server thread/INFO]: Killed Blitz
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Ashen
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Witch
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Witch
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Skeleton
+[23:06:57] [Server thread/INFO]: Killed Husk
+[23:06:57] [Server thread/INFO]: Killed Zombie
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Smmxyk fell out of the world
+[23:06:57] [Server thread/INFO]: Killed Smmxyk
+[23:06:57] [Server thread/INFO]: Killed Creeper
+[23:06:57] [Server thread/INFO]: Killed Dweller
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Bat
+[23:06:57] [Server thread/INFO]: Killed Witch
+[23:06:57] [Server thread/INFO]: Killed Spider
+[23:10:17] [Server thread/INFO]: Smmxyk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:10:17] [Server thread/INFO]: Smmxyk left the game
+[23:10:26] [Server thread/INFO]: Stopping the server
+[23:10:26] [Server thread/INFO]: Stopping server
+[23:10:26] [Server thread/INFO]: Saving players
+[23:10:26] [Server thread/INFO]: Saving worlds
+[23:10:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:10:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:10:26] [Server thread/INFO]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[23:10:27] [Server Shutdown Thread/INFO]: Stopping server
+[23:10:27] [Server Shutdown Thread/INFO]: Saving players
+[23:10:27] [Server Shutdown Thread/INFO]: Saving worlds

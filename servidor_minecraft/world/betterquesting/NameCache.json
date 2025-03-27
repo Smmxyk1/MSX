@@ -1,0 +1,24 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "NoxiusSpeed",
+      "isOP:1": 0,
+      "uuid:8": "9bac3791-0c05-3ef6-ab5f-a9e3edd52c86"
+    },
+    "1:10": {
+      "name:8": "jay_jones",
+      "isOP:1": 0,
+      "uuid:8": "d1d6100a-3e15-4ddd-b373-475c16d96060"
+    },
+    "2:10": {
+      "name:8": "Smmxyk",
+      "isOP:1": 0,
+      "uuid:8": "8120c1e5-07e7-3111-b5ff-16ae3ed6b0ee"
+    },
+    "3:10": {
+      "name:8": "GWSheridan",
+      "isOP:1": 1,
+      "uuid:8": "84680660-1372-4890-9935-88272138173d"
+    }
+  }
+}
