@@ -22,3 +22,11 @@
 [02:56:56] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM144): All chunks are saved
 [02:56:56] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-2): All chunks are saved
 [02:57:01] [Aromabackup-Backup/INFO]: [AromaBackup] Server Backup done!
+[03:19:10] [Server thread/INFO]: Smmxyk[/127.125.104.106:35581] logged in with entity id 149 at (235.0748902103592, 68.0, -1216.8158794369028)
+[03:19:10] [Server thread/INFO]: Smmxyk joined the game
+[03:22:44] [Server thread/INFO]: Smmxyk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:22:44] [Server thread/INFO]: Smmxyk left the game
+[03:23:38] [Server thread/INFO]: Smmxyk lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:23:38] [Server thread/INFO]: Smmxyk left the game
+[03:24:05] [Server thread/INFO]: Smmxyk[/127.125.104.106:33587] logged in with entity id 3444 at (232.85791863822536, 68.0, -1215.5707237111442)
+[03:24:05] [Server thread/INFO]: Smmxyk joined the game
