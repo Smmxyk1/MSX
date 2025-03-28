@@ -22153,3 +22153,146 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: http://bla
 [14:11:37] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 110 times.
 
 [14:11:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:12:27] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 115 times.
+
+[14:12:27] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 115 times.
+
+[14:12:27] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 115 times.
+
+[14:12:27] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 115 times.
+
+[14:12:27] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 115 times.
+
+[14:12:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:13:17] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 120 times.
+
+[14:13:17] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 120 times.
+
+[14:13:17] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 120 times.
+
+[14:13:17] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 120 times.
+
+[14:13:17] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 120 times.
+
+[14:13:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:14:07] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 125 times.
+
+[14:14:07] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 125 times.
+
+[14:14:07] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 125 times.
+
+[14:14:07] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 125 times.
+
+[14:14:07] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 125 times.
+
+[14:14:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:14:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:14:57] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 130 times.
+
+[14:14:57] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 130 times.
+
+[14:14:57] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 130 times.
+
+[14:14:57] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 130 times.
+
+[14:14:57] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 130 times.
+
+[14:15:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:15:47] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 135 times.
+
+[14:15:47] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 135 times.
+
+[14:15:47] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 135 times.
+
+[14:15:47] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 135 times.
+
+[14:15:47] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 135 times.
+
+[14:16:14] [Server thread/DEBUG] [EnderIO/]: Running onPlayerDeathEarly logic for Smmxyk
+[14:16:14] [Server thread/DEBUG] [EnderIO/]: Running onPlayerDeathLate logic for Smmxyk
+[14:16:18] [Server thread/DEBUG] [EnderIO/]: Running onPlayerCloneEarly logic for Smmxyk
+[14:16:18] [Server thread/DEBUG] [EnderIO/]: Running onPlayerCloneLate logic for Smmxyk
+[14:16:18] [Server thread/INFO] [journeymap/]: Smmxyk joining dimension 0
+[14:16:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:16:37] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 140 times.
+
+[14:16:37] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 140 times.
+
+[14:16:37] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 140 times.
+
+[14:16:37] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 140 times.
+
+[14:16:37] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 140 times.
+
+[14:17:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:17:27] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 145 times.
+
+[14:17:27] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 145 times.
+
+[14:17:27] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 145 times.
+
+[14:17:27] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 145 times.
+
+[14:17:27] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 145 times.
+
+[14:17:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:18:17] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 150 times.
+
+[14:18:17] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 150 times.
+
+[14:18:17] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 150 times.
+
+[14:18:17] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 150 times.
+
+[14:18:17] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 150 times.
+
+[14:18:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:19:07] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 155 times.
+
+[14:19:07] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 155 times.
+
+[14:19:07] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 155 times.
+
+[14:19:07] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 155 times.
+
+[14:19:07] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 155 times.
+
+[14:19:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:19:57] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 160 times.
+
+[14:19:57] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 160 times.
+
+[14:19:57] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 160 times.
+
+[14:19:57] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 160 times.
+
+[14:19:57] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 160 times.
+
+[14:20:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:20:47] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 165 times.
+
+[14:20:47] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 165 times.
+
+[14:20:47] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 165 times.
+
+[14:20:47] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 165 times.
+
+[14:20:47] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 165 times.
+
+[14:20:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:21:37] [Server thread/DEBUG] [FML/]: The world 6ca18db0 (world) may have leaked: seen 170 times.
+
+[14:21:37] [Server thread/DEBUG] [FML/]: The world 7a4d5dd6 (world) may have leaked: seen 170 times.
+
+[14:21:37] [Server thread/DEBUG] [FML/]: The world 3e29de76 (world) may have leaked: seen 170 times.
+
+[14:21:37] [Server thread/DEBUG] [FML/]: The world 5b73e81 (world) may have leaked: seen 170 times.
+
+[14:21:37] [Server thread/DEBUG] [FML/]: The world 970fda2 (world) may have leaked: seen 170 times.
+
+[14:21:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[14:21:45] [Server thread/DEBUG] [EnderIO/]: Running onPlayerDeathEarly logic for Smmxyk
+[14:21:45] [Server thread/DEBUG] [EnderIO/]: Running onPlayerDeathLate logic for Smmxyk
+[14:21:54] [Server thread/DEBUG] [EnderIO/]: Running onPlayerCloneEarly logic for Smmxyk
+[14:21:54] [Server thread/DEBUG] [EnderIO/]: Running onPlayerCloneLate logic for Smmxyk
+[14:21:54] [Server thread/INFO] [journeymap/]: Smmxyk joining dimension 0
