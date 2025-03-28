@@ -32,3 +32,7 @@
 [14:21:30] [Server thread/INFO]: Compressed Zombie was slain by Smmxyk
 [14:21:45] [Server thread/INFO]: Smmxyk was slain by Zombie
 [14:21:59] [Server thread/INFO]: [Smmxyk: Set own game mode to Creative Mode]
+[14:24:08] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
+[14:24:49] [Server thread/INFO]: Smmxyk got revenge on Zombie
+[14:26:55] [Server thread/INFO]: Smmxyk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:26:55] [Server thread/INFO]: Smmxyk left the game
