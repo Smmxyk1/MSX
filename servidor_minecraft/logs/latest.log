@@ -1,38 +1,25 @@
-[13:52:13] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[13:52:53] [Server thread/INFO]: Loading properties
-[13:52:53] [Server thread/INFO]: Default game type: SURVIVAL
-[13:52:53] [Server thread/INFO]: Generating keypair
-[13:52:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:52:53] [Server thread/INFO]: Using epoll channel type
-[13:52:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:52:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:52:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:52:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:53:04] [Server thread/INFO]: Preparing level "world"
-[13:53:06] [Server thread/INFO]: Preparing start region for level 0
-[13:53:06] [Server thread/INFO]: Done (2.238s)! For help, type "help" or "?"
-[13:53:07] [Aromabackup-Backup/INFO]: [AromaBackup] Starting Backup. The server may lag for a bit!
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-11325): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-343800852): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-9999): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM144): All chunks are saved
-[13:53:10] [Aromabackup-Backup/INFO]: ThreadedAnvilChunkStorage (DIM-2): All chunks are saved
-[13:53:13] [Aromabackup-Backup/INFO]: [AromaBackup] Server Backup done!
-[14:04:25] [Server thread/INFO]: Smmxyk[/127.125.104.106:33709] logged in with entity id 161 at (219.287111918949, 67.0, -1225.2491037577759)
-[14:04:25] [Server thread/INFO]: Smmxyk joined the game
-[14:04:55] [Server thread/INFO]: Smmxyk was slain by Husk
-[14:05:58] [Server thread/INFO]: Opped smmxyk
-[14:06:06] [Server thread/INFO]: Set Smmxyk's game mode to Creative Mode
-[14:13:36] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
-[14:16:13] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
-[14:16:14] [Server thread/INFO]: Smmxyk died
-[14:21:30] [Server thread/INFO]: Compressed Zombie was slain by Smmxyk
-[14:21:45] [Server thread/INFO]: Smmxyk was slain by Zombie
-[14:21:59] [Server thread/INFO]: [Smmxyk: Set own game mode to Creative Mode]
-[14:24:08] [Server thread/INFO]: [Smmxyk: Set own game mode to Survival Mode]
-[14:24:49] [Server thread/INFO]: Smmxyk got revenge on Zombie
-[14:26:55] [Server thread/INFO]: Smmxyk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[14:26:55] [Server thread/INFO]: Smmxyk left the game
+[18:43:10] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[18:43:11] [ForkJoinPool-1-worker-2/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:43:11] [ForkJoinPool-1-worker-2/WARN]: Mod create_dd uses the version 0.1d which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1d'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:43:11] [main/WARN]: Mod resolution failed
+[18:43:11] [main/INFO]: Immediate reason: [HARD_DEP anvianslib 1.1 {depends fabric @ [*]}, HARD_DEP_NO_CANDIDATE fabric-api 0.92.5+1.20.1 {depends fabricloader @ [>=0.16.10]}, ROOT_FORCELOAD_SINGLE anvianslib 1.1]
+[18:43:11] [main/INFO]: Reason: [HARD_DEP fabric-api 0.92.5+1.20.1 {depends fabricloader @ [>=0.16.10]}, HARD_DEP crash_assistant 1.7.6 {depends fabricloader @ [>=0.16.9]}, HARD_DEP create_unbreakable 1.7+fabric-1.20.1-build.9 {depends fabricloader @ [>=0.16.9]}, HARD_DEP fabric-language-kotlin 1.13.2+kotlin.2.1.20 {depends fabricloader @ [>=0.16.9]}, HARD_DEP fabric-object-builder-api-v1 11.1.5+e35120df77 {depends fabricloader @ [>=0.16.10]}]
+[18:43:11] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, fabric-keybindings-v0, entity_texture_features, enchdesc, sodium-extra, sodiumextras, fabric-screen-api-v1, fabric-renderer-indigo, essential-container, flywheel, fabric-sound-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-model-loading-api-v1, indium, immediatelyfast, fabric-client-tags-api-v1, fabric-blockrenderlayer-v1, dynamic_fps, betterf3, sodium, fabric-renderer-registries-v1, particle_core, fabric-models-v0, sodiumdynamiclights]
+[18:43:11] [main/INFO]: Fix: add [], remove [], replace [[fabricloader 0.16.3] -> add:fabricloader 0.16.10 ([[0.16.10,∞)])]
+[18:43:11] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Replace mod 'Fabric Loader' (fabricloader) 0.16.3 with version 0.16.10 or later.
+More details:
+	 - Mod 'Fabric API' (fabric-api) 0.92.5+1.20.1 requires version 0.16.10 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.3!
+	 - Mod 'Crash Assistant' (crash_assistant) 1.7.6 requires version 0.16.9 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.3!
+	 - Mod 'Create Unbreakable Tools Mod' (create_unbreakable) 1.7+fabric-1.20.1-build.9 requires version 0.16.9 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.3!
+	 - Mod 'Fabric Language Kotlin' (fabric-language-kotlin) 1.13.2+kotlin.2.1.20 requires version 0.16.9 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.3!
+	 - Mod 'Fabric Object Builder API (v1)' (fabric-object-builder-api-v1) 11.1.5+e35120df77 requires version 0.16.10 or later of mod 'Fabric Loader' (fabricloader), but only the wrong version is present: 0.16.3!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
