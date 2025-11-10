@@ -1,0 +1,26 @@
+[17:26:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:26:59] [ServerMain/INFO]: Loaded 1461 recipes
+[17:26:59] [ServerMain/INFO]: Loaded 1574 advancements
+[17:26:59] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[17:26:59] [Server thread/INFO]: Loading properties
+[17:26:59] [Server thread/INFO]: Default game type: SURVIVAL
+[17:26:59] [Server thread/INFO]: Generating keypair
+[17:26:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:26:59] [Server thread/INFO]: Using epoll channel type
+[17:26:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:26:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:26:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:26:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:26:59] [Server thread/INFO]: Preparing level "world"
+[17:26:59] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:26:59] [Server thread/INFO]: Preparing spawn area: 100%
+[17:26:59] [Server thread/INFO]: Time elapsed: 11 ms
+[17:26:59] [Server thread/INFO]: Done (0.327s)! For help, type "help"
+[17:27:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:37:57] [Server thread/INFO]: Smmxyk[/127.11.235.133:46401] logged in with entity id 89 at (106.47900838561009, 80.0, -347.1172454263415)
+[17:37:57] [Server thread/INFO]: Smmxyk joined the game
+[17:38:26] [Server thread/INFO]: [Smmxyk: Set the weather to clear]
+[18:19:19] [Server thread/INFO]: [Not Secure] <Smmxyk> 164 -465
+[18:33:10] [Server thread/INFO]: Smmxyk lost connection: Disconnected
+[18:33:10] [Server thread/INFO]: Smmxyk left the game
+[18:34:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
